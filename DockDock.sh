@@ -35,7 +35,7 @@ trap ctrl_c SIGINT
 
 function helppanel(){
 
-  echo -e "\t${grayColour}[!]${endColour} ${turquoiseColour}Uso:${endColour}"
+  echo -e "\n \t${grayColour}[!]${endColour} ${turquoiseColour}Uso:${endColour}"
   echo -e "\n${grayColour}[+]${endColour} ${grayColour}Modo de uso:${endColour}${yellowColour}./dockdock.sh (maquina) (usuario)${endColour}\n"
 
   echo -e "${grayColour}[+]${endColour} ${grayColour}Ejemplo:${endColour}${yellowColour}./dockdock.sh debugme sleeping (no es necesario poner la extencion del archivo)${endColour}\n"
