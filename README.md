@@ -1,5 +1,5 @@
 # DockDock
-**Un simple script en bash que descomprime el archivo .zip de la maquina y crea los directorio de trabajo y hace la función mkt creando los directorios "nmap,content,exploits,scripts" para estar mas cómodo realizando la maquina :D**
+**script en bash que descomprime el archivo .zip de la maquina y crea los directorio de trabajo y hace la función mkt creando los directorios "nmap,content,exploits,scripts" para estar mas cómodo realizando la maquina :D**
 
 # No olvides hacer chmod +x DockDock.sh ;)
 
