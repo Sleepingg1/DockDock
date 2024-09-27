@@ -40,8 +40,6 @@ function helppanel(){
 
   echo -e "${grayColour}[+]${endColour} ${grayColour}Ejemplo:${endColour}${yellowColour}./dockdock.sh debugme sleeping (no es necesario poner la extencion del archivo)${endColour}\n"
   echo -e "${grayColour}[+]${endColour} ${grayColour}En caso que no tengas los directorios de trabajo ${yellowColour}\"/home/user/user/maquinas/dockerlabs\"${endColour} ${grayColour}el script lo creara por ti :D${endColour}"
-  echo -e "${grayColour}[+]${endColour} "
-
 }
 
 # mostrar panel de ayuda
