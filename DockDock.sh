@@ -91,7 +91,7 @@ function machinne_name(){
 function mover(){
   
   tput civis
-  echo -e "\n${grayColour}[+]${endColour} ${greenColour}Moviendo todos los archivos al directorio${endColour} ${yellowColour}\"$dir/$maquina\"${endColour}\n"
+  echo -e "\n${grayColour}[+]${endColour} ${greenColour}Moviendo todos los archivos al directorio${endColour} ${yellowColour}\"$dir/$maquina\"${endColour}"
   sleep 0.3
 
   if [ -d $dir ]; then
