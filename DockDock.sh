@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Authon: Sleepingg
+#Author: Sleepingg
 
 #Colours
 greenColour="\e[0;32m\033[1m"
@@ -24,7 +24,7 @@ dir2=/home/$2/$2/maquinas/dockerlabs/$1
 
 function ctrl_c(){
 
-  echo -e "[!] Saliendo..."
+  echo -e "\n${grayColour}[!]${endColour} ${redColour}Saliendo rey...${endColour}\n"
   exit 1
   tput cnorm
 }
